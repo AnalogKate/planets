@@ -3,3 +3,9 @@ Mars is red, cold, dry and inhabited by aliens......
 Mars has ancient sculpture and building constructed by these 
 aliens......
 
+<<<<<<< HEAD
+=======
+We need to conquer this Planet......
+  
+Making a conflict
+
